@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Raw data files - too large for GitHub
+archive/
+*.dat
+*.csv
+
+# Model checkpoints
+*.pth
+*.pt
