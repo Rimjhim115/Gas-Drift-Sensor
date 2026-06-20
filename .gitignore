@@ -222,6 +222,9 @@ __marimo__/
 archive/
 *.dat
 *.csv
+# ...except these two essential ones
+!smell_dataset.csv
+!final_balanced_dataset.csv
 
 # Model checkpoints
 *.pth
